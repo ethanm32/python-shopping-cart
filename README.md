@@ -2,6 +2,7 @@
 This is a python application to manage a shopping cart
 
 Author: Ethan Moran
+
 Date: 16/02/2021
 
 This program utilises a command line menu. A user can choose one of 5 options. These are Create a customer, List products, Add/Remove a product to the shopping cart, see current shopping cart and checkout. These are chosen by their corresponding numbers – 1-5.
